@@ -7,10 +7,6 @@
 
 Seismic Patterns and Trends: Analyzing Japan’s Earthquake Data
 
-## Team Members (Name and Student IDs)
-
-Kyosuke Chikamatsu(1485885653), Shruti Subramanyam(3541420114)
-
 ## Instructions to create a conda environment
 
 In order to run this project, you need to create and activate a specific conda environment. You can run:
