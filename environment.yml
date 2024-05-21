@@ -1,0 +1,6 @@
+name: finalpj
+channels:
+  - defaults
+dependencies:
+  - pip=23.2.1
+  - python=3.11.4
